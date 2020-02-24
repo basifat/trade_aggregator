@@ -1,5 +1,7 @@
 # Trade Aggregator
 
+Aggregates trades using the correlation id and decides to accept, reject or make the trade pending.
+
 1. Run application:
    1. Cd into trade_aggregator
    2. pip3 install -r requirements.txt
